@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Info"
+    android:background="#363636">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="1000dp"
+        android:layout_marginTop="70dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="A CV (short for the Latin phrase curriculum vitae, which means “course of life”) is a detailed document highlighting your personal information. CVs typically include information like your job , age , phone number, email and your full name of your work. You may be asked to submit a CV when applying for jobs in academia or a job
+
+If you need help determining how to write a CV, it can be helpful to consult a template. In this article, we will provide additional background on the document along with an easy-to-follow CV example template to ensure you craft a powerful curriculum vitae that stands out to employers."
+        android:textAlignment="center"
+        android:textColor="#ffbcbc"
+        android:textSize="24sp" />
+</RelativeLayout>
